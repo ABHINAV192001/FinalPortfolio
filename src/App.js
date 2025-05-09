@@ -33,7 +33,7 @@ function App() {
           <a href="https://github.com/ABHINAV192001" className="github" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://drive.google.com/file/d/1tGb8tzcgc6DuI-IFxRcpJBXbPt1xZTbI/view?usp=drive_link" className="resume" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1K4yi6CFdda26_npx7QWfZBimHWPSsJ2T/view?usp=drive_link" className="resume" target="_blank" rel="noopener noreferrer">
             <i className="fas fa-file-alt"></i>
           </a>
         </div>
